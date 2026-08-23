@@ -3,3 +3,4 @@ uvicorn[standard]
 yt-dlp
 httpx
 python-multipart
+SQLAlchemy
